@@ -1,0 +1,16 @@
+App(
+    appid="flipper_fapper",
+    name="Flipper Fapper",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="flipper_fapper_app",
+    cdefines=[],
+    requires=["gui", "notification"],
+    stack_size=2 * 1024,
+    order=10,
+    fap_icon="fapper_icon.png",
+    fap_category="Fun",
+    fap_description="Go up. Go down. Control the speed.",
+    fap_author="FlipperFAP",
+    fap_version="1.0",
+    fap_icon_assets="images",
+)
