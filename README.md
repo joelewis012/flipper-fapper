@@ -1,3 +1,5 @@
+![Flipper Fapper](./flipper_fapper_social.png)
+
 # Flipper Fapper 🐬
 
 > *"Go up. Go down. Control the speed."*
