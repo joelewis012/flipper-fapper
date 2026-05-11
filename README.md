@@ -33,7 +33,7 @@ Drop this folder into your Flipper Zero firmware's `applications_user/` director
 ./fbt fap_flipper_fapper
 ```
 
-Or submit the repo to [FlipperFAP](https://flipperfap.com) and let it build for you. 😏
+Or submit the repo to [FlipperFAP](https://joelewis012.github.io/flipper-fap-actions/index.html) and let it build for you. 😏
 
 ## Why does this exist?
 
